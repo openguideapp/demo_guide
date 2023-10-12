@@ -12,8 +12,8 @@ absolut path with ./
 ---
 
 relative path  
-@[Click me!](./../../guide1.md)
+@[Click me!](./../../home.md)
 
 absolut  
-@[Click me!](guide1.md)
+@[Click me!](home.md)
 
