@@ -1,5 +1,8 @@
 # heurika nummer 2!
 
+relative path with prefix data:    
+![image](data:../building1.jpg)
+
 relative path  
 ![image](../building1.jpg)
 
