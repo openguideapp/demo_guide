@@ -1,4 +1,4 @@
-# heurika!{.red color=#61dafb}  
+# heurika!{.red color=#61dafb fontSize=90}  
 
 # heurika!{.red color=Green}
 
