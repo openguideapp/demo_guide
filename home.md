@@ -1,42 +1,42 @@
 Headings
 
-  # h1 Heading 8-){color=green fontsize=1}
-  ## h2 Heading{color=green fontsize=1}
-  ### h3 Heading{color=green fontsize=1}
-  #### h4 Heading{color=green fontsize=1}
-  ##### h5 Heading{color=green fontsize=1}
-  ###### h6 Heading{color=green fontsize=1}
+  # h1 Heading 8-){color=green fontSize=1}
+  ## h2 Heading{color=green fontSize=1}
+  ### h3 Heading{color=green fontSize=1}
+  #### h4 Heading{color=green fontSize=1}
+  ##### h5 Heading{color=green fontSize=1}
+  ###### h6 Heading{color=green fontSize=1}
 
 
-Horizontal Rules{color=green fontsize=1}
+Horizontal Rules{color=green fontSize=1}
 
-  Some text above{color=green fontsize=1}
-  ___{color=green fontsize=1}
+  Some text above {color=green fontSize=1}
+  ___ {color=green fontsize=1}
 
-  Some text in the middle{color=green fontsize=1}
+  Some text in the middle{color=green fontSize=1}
 
   ---{color=green fontsize=1}
 
-  Some text below{color=green fontsize=1}
+  Some text below{color=green fontSize=1}
 
 
 Emphasis{color=green fontsize=1}
 
-  **This is bold text**{color=green fontsize=1}
+  **This is bold text**{color=green fontSize=1}
 
-  __This is bold text__{color=green fontsize=1}
+  __This is bold text__{color=green fontSize=1}
 
-  *This is italic text*{color=green fontsize=1}
+  *This is italic text*{color=green fontSize=1}
 
-  _This is italic text_{color=green fontsize=1}
+  _This is italic text_{color=green fontSize=1}
 
-  ~~Strikethrough~~{color=green fontsize=1}
+  ~~Strikethrough~~{color=green fontSize=1}
 
 
 Blockquotes
 
   > Blockquotes can also be nested...{color=green fontsize=1}
-  >> ...by using additional greater-than signs right next to each other...{color=green fontsize=1}
+  >> ...by using additional greater-than signs right next to each other...{color=green fontSize=1}
   > > > ...or with spaces between arrows.{color=green fontsize=1}
 
 
@@ -44,8 +44,8 @@ Lists
 
   Unordered
 
-  + Create a list by starting a line with `+`, `-`, or `*`{color=green fontsize=1}
-  + Sub-lists are made by indenting 2 spaces:
+  + Create a list by starting a line with `+`, `-`, or `*`
+  + Sub-lists are made by indenting 2 spaces:{color=green fontSize=1}
     - Marker character change forces new list start:
       * Ac tristique libero volutpat at
       + Facilisis in pretium nisl aliquet. This is a very long list item that will surely wrap onto the next line.
@@ -57,7 +57,7 @@ Lists
   1. Lorem ipsum dolor sit amet
   2. Consectetur adipiscing elit. This is a very long list item that will surely wrap onto the next line.
   3. Integer molestie lorem at massa
-{color=green fontsize=1}
+{color=green fontSize=1}
 
   Start numbering with offset:
 
