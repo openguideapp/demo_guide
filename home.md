@@ -1,6 +1,6 @@
 Headings
 
-  # h1 Heading 8-){color=green fontSize=1}
+  # h1 Heading 8-){color=red fontSize=1}
   ## h2 Heading{color=green fontSize=1}
   ### h3 Heading{color=green fontSize=1}
   #### h4 Heading{color=green fontSize=1}
