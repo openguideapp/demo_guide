@@ -4,7 +4,6 @@
 
 
 ---
-
 # Headings
 
 heading change color:
@@ -16,37 +15,37 @@ heading change color:
 ##### h5 Heading{color=green}
 ###### h6 Heading{color=green}
 
-heading change fontSize to 5:
+heading change fontSize to 10:
 
-# h1 Heading{fontSize=5}
-## h2 Heading{fontSize=5}
-### h3 Heading{fontSize=5}
-#### h4 Heading{fontSize=5}
-##### h5 Heading{fontSize=5}
-###### h6 Heading{fontSize=5}
+# h1 Heading{fontSize=10}
+## h2 Heading{fontSize=10}
+### h3 Heading{fontSize=10}
+#### h4 Heading{fontSize=10}
+##### h5 Heading{fontSize=10}
+###### h6 Heading{fontSize=10}
 
 
 ---
 # Emphasis
 
--> Change every second example to fontSize 5
+-> Change every second example to fontSize 10
 
 **This is bold text**
-**This is bold text in fontSize 5**{fontSize=5}
+**This is bold text in fontSize 10**{fontSize=10 color=green}
 
 __This is bold text__
-__This is bold text in fontSize 5__{fontSize=5}
+__This is bold text in fontSize 10__{fontSize=10 color=green}
 
 *This is italic text*
-*This is italic text in fontSize 5*{fontSize=5}
+*This is italic text in fontSize 10*{fontSize=10 color=green}
 
 _This is italic text_
-_This is italic text in fontSize 5_{fontSize=5}
+_This is italic text in fontSize 10_{fontSize=10 color=green}
 
 ~~Strikethrough~~
-~~Strikethroughin fontSize 5~~{fontSize=5}
-
-
+~~Strikethroughin fontSize 10~~{fontSize=10 color=green}
+  
+  
 ---
 # Blockquotes
 
@@ -55,14 +54,14 @@ _This is italic text in fontSize 5_{fontSize=5}
 > > > ...or with spaces between arrows.
 
 
-Change the hole blockquote to fontSize 5, 
-the first line to fontsize 10, 
+Change the hole blockquote to fontSize 10, 
+the first line to fontsize 20, 
 third line color=green:
 
-> Blockquotes can also be nested...{fontSize=5}
+> Blockquotes can also be nested...{fontSize=20}
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.{color=green}
-{fontSize=5}
+{fontSize=10}
 
 ---
 # Lists
@@ -94,7 +93,8 @@ Change the color of the List to green
 2. Consectetur adipiscing elit. This is a very long list item that will surely wrap onto the next line.
 3. Integer molestie lorem at massa
 {color=green}
-
+  
+  
 ---
 # Code
 
@@ -143,11 +143,13 @@ Right aligned columns
 
 center alligned
 | Option | Description |
-| :------:| :-----------:|
+|:------:|:-----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
-
+  
+  
+  
 ---
 # Links
 
