@@ -24,3 +24,9 @@ http
 
 normal markdown link  
 [to guide2](media/nested/guide2.md)
+
+
+::: map
+@marker[title](49.460468057353104, 6.627158134543647)
+@path(merzig_tour_gpxstudo.gpx)
+:::
