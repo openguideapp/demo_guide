@@ -6,12 +6,12 @@
 
 relative path  
 ![image](../building1.jpg)  
+
+relative path with
+![image](./../building1.jpg)  
   
 absolut path without ./    
 ![image](media/building1.jpg)  
-  
-absolut path with ./    
-![image](./media/building1.jpg)  
   
 ---
   
