@@ -27,6 +27,7 @@ normal markdown link
 
 
 ::: map
-@marker[title](49.460468057353104, 6.627158134543647)
+@marker[Welthaus](49.460468057353104, 6.627158134543647)
+@marker[Wolfsweg](49.46593061259785, 6.64518839989905)
 @path(merzig_tour_gpxstudo.gpx)
 :::
