@@ -68,7 +68,7 @@ third line color=green:
 
 Unordered
 
-+ Create a list by starting a line with \`+\`, \`-\`, or \`*\`
++ Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
 - Marker character change forces new list start:
     * Ac tristique libero volutpat at
@@ -98,7 +98,7 @@ Change the color of the List to green
 ---
 # Code
 
-Inline \`code\`
+Inline `code`
 
 Indented code
 
@@ -110,19 +110,19 @@ Indented code
 
 Block code "fences"
 
-\`\`\`
+```
 Sample text here...
-\`\`\`
+```
 
 Syntax highlighting
 
-\`\`\` js
+``` js
 var foo = function (bar) {
 return bar++;
 };
 
 console.log(foo(5));
-\`\`\`
+```
 
 ---
 # Tables
